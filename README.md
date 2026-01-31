@@ -1,9 +1,5 @@
 # labortary_management_system
 
-# Members:
-# Eesar bin asad(2023F-BCS-068)
-# Sabih shamsi(2023F-BCS-052)
-# Hammad faisal(2023F-BCS-101)
 
 # SWEM Laboratory Portal
 

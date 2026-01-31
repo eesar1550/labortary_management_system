@@ -1,4 +1,10 @@
 # labortary_management_system
+
+# Members:
+# Eesar bin asad(2023F-BCS-068)
+# Sabih shamsi(2023F-BCS-052)
+# Hammad faisal(2023F-BCS-101)
+
 # SWEM Laboratory Portal
 
 A web-based application for SWEM Laboratories that enables users to **register**, **log in**, **view their dashboard**, **download lab reports**, **book test appointments**, and **contact support**. Built using PHP, MySQL, HTML, CSS, and JavaScript.
